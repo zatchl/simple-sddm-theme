@@ -75,3 +75,8 @@ CMakeLists.txt.user*
 # Qt Creator backups
 
 # End of https://www.gitignore.io/api/qt,qml,qtcreator
+
+# QtQuick/QtCreator files not needed by sddm
+*.cpp
+*.qrc
+*.pro
