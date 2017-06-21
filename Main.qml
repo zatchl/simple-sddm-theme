@@ -49,9 +49,5 @@ Rectangle {
         onRestartClicked: sddm.reboot()
         onShutdownClicked: sddm.powerOff()
     }
-
-
-
-
 }
 
