@@ -98,6 +98,7 @@ StackView {
 
                 Label {
                     text: "zach"
+                    font.pointSize: 14
                     color: "white"
                     anchors.horizontalCenter: parent.horizontalCenter
                 }
